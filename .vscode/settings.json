@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": ".venv\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "JUPYTER_PATH": "${workspaceFolder}"
+  },
+  "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
